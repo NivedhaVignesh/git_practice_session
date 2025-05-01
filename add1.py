@@ -1,4 +1,4 @@
-a = 25
+a = 20
 b = 7
 c = a + b
 print c
