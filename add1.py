@@ -1,4 +1,4 @@
-a = 10
+a = 22
 b = 7
 c = a + b
 print c
